@@ -1,0 +1,21 @@
+# Data, outputs, and local artefacts (this repository ships code only)
+data/
+output/
+output_addon/
+results_final/
+INTERNAL_ONLY/
+logs/
+*.duckdb
+*.duckdb.wal
+*.csv
+*.rds
+*.RData
+*.rda
+
+# R / OS
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+*~
